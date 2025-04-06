@@ -8,7 +8,7 @@ Openmadness is a lightweight JavaScript library that brings clarity to array-bas
 
 This is a fictional but realistic open-source project created by the **Technical Writers Mentorship Program (TWMP)** to help documentation engineers practice building rich, clear, and user-centered documentation.
 
-You'll find more details about the library in the `Openmadness.md` file.
+You'll find more details about the library in the [Openmadness.md](https://github.com/Technical-writing-mentorship-program/Openmadness/blob/main/Openmadnness.md) file.
 
 ## Why Openmadness?
 
@@ -22,7 +22,7 @@ You'll find more details about the library in the `Openmadness.md` file.
 
 The following steps will guide you in using this project effectively:
 
-1. Read the `Openmadness.md` file to understand how the library works.
+1. Read the [Openmadness.md](https://github.com/Technical-writing-mentorship-program/Openmadness/blob/main/Openmadnness.md) file to understand how the library works.
 2. Create a documentation audit outlining what’s needed for a complete and helpful user experience.
 3. Choose a static site generator (SSG) you’d like to work with.
 4. Fork this repository to work locally.
